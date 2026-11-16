@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 void main() => runApp(VBSApp());
 
 List<Map<String, dynamic>> allBills = [];
